@@ -1,0 +1,57 @@
+header{
+    background:#28a745;
+    
+}
+nav{
+    font-family:"Roboto","times new roman";
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+footer{
+    text-align: center;
+    font-family:"Roboto","times new roman"; 
+}
+aside{
+    padding-top:2rem;
+    text-align: center;
+    font-family:"Roboto","times new roman";
+    color:#ffff;
+
+}
+.card-precio{
+    text-align: end;
+    border-top: solid #F8F9FA ;
+    padding-top: 1rem;
+}
+p{
+    font-size: 16px;
+}
+span{
+    font-size: 24px;
+}
+ul{
+    list-style: none;
+    color:#707070;
+}
+.card{
+    margin-top:2rem;
+    margin-bottom:0.5rem;
+    color: #212529;
+    
+}
+form{
+    text-align: center;
+    font-family:"Roboto","times new roman";
+}
+#titulo-footer{
+    color:#212529;
+    font-size: 0.5rem;
+    font-family:"Roboto";
+    
+}
